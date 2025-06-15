@@ -1,0 +1,4 @@
+moneda_base;moneda_destino;valor_compra;valor_venta;data_hora
+USD;BRL;5.5389;5.5489;2025-06-13 21:26:03
+EUR;BRL;6.39795;6.41437;2025-06-13 21:04:14
+BTC;BRL;588549.0;588573.0;2025-06-15 01:47:02
